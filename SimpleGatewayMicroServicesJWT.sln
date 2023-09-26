@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthApi", "AuthApi\AuthApi.csproj", "{35FCC268-CF9C-488E-BDD1-12E1455372A1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharedApi", "SharedApi\SharedApi.csproj", "{AD7DB7EC-1339-4E59-80FE-56C7392EC58C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShoeApi", "ShoeApi\ShoeApi.csproj", "{F69FEB64-0B38-420A-B9B4-A0261A23D539}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OcelotApiGateway", "OcelotApiGateway\OcelotApiGateway.csproj", "{4EF7C452-8C7D-4E02-B274-B3422B29295B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35FCC268-CF9C-488E-BDD1-12E1455372A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35FCC268-CF9C-488E-BDD1-12E1455372A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35FCC268-CF9C-488E-BDD1-12E1455372A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35FCC268-CF9C-488E-BDD1-12E1455372A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD7DB7EC-1339-4E59-80FE-56C7392EC58C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD7DB7EC-1339-4E59-80FE-56C7392EC58C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD7DB7EC-1339-4E59-80FE-56C7392EC58C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD7DB7EC-1339-4E59-80FE-56C7392EC58C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F69FEB64-0B38-420A-B9B4-A0261A23D539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F69FEB64-0B38-420A-B9B4-A0261A23D539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F69FEB64-0B38-420A-B9B4-A0261A23D539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F69FEB64-0B38-420A-B9B4-A0261A23D539}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EF7C452-8C7D-4E02-B274-B3422B29295B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EF7C452-8C7D-4E02-B274-B3422B29295B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EF7C452-8C7D-4E02-B274-B3422B29295B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EF7C452-8C7D-4E02-B274-B3422B29295B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92593FA2-ECDA-4EB7-AC27-083163C3443D}
+	EndGlobalSection
+EndGlobal
